@@ -12,11 +12,11 @@ public class ItemCollector : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.CompareTag("Cherry"))
+        if (collision.gameObject.CompareTag("Pickup"))
         {
             Destroy(collision.gameObject);
             cherries++;
-            cherriesText.text = "Cherries: " + cherries;
+            cherriesText.text = "Fruits: " + cherries;
             pickupSoundEffect.Play();
         }
     }

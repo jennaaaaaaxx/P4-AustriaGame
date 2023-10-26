@@ -4,8 +4,9 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Cherry
   - Trap
+  - Wall
+  - Pickup
   layers:
   - Default
   - TransparentFX
