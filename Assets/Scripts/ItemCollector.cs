@@ -5,9 +5,9 @@ using UnityEngine.UI;
 
 public class ItemCollector : MonoBehaviour
 {
-    private int cherries = 0;
+    private int pickups = 0;
 
-    [SerializeField] private Text cherriesText;
+    [SerializeField] private Text pickupsText;
     [SerializeField] private AudioSource pickupSoundEffect;
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -15,8 +15,8 @@ public class ItemCollector : MonoBehaviour
         if (collision.gameObject.CompareTag("Pickup"))
         {
             Destroy(collision.gameObject);
-            cherries++;
-            cherriesText.text = "Fruits: " + cherries;
+            pickups++;
+            pickupsText.text = "Fruits: " + pickups;
             pickupSoundEffect.Play();
         }
     }
