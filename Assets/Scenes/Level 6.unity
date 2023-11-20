@@ -32892,6 +32892,16 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+  - first: {x: 0, y: 0, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 21
+      m_TileSpriteIndex: 20
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      dummyAlignment: 0
+      m_AllTileFlags: 1073741825
   - first: {x: 1, y: 0, z: 0}
     second:
       serializedVersion: 2
@@ -49276,7 +49286,7 @@ Tilemap:
     m_Data: {fileID: 0}
   - m_RefCount: 0
     m_Data: {fileID: 0}
-  - m_RefCount: 509
+  - m_RefCount: 510
     m_Data: {fileID: 11400000, guid: 263f6ecf024cc0f45987d45799ca3020, type: 2}
   - m_RefCount: 102
     m_Data: {fileID: 11400000, guid: 0fa06a6ba6bc59849b171ed5932145d2, type: 2}
@@ -49345,7 +49355,7 @@ Tilemap:
     m_Data: {fileID: 0}
   - m_RefCount: 0
     m_Data: {fileID: 0}
-  - m_RefCount: 509
+  - m_RefCount: 510
     m_Data: {fileID: -1761290167, guid: 29e21165cb3ae334d969d4be634eaa9e, type: 3}
   - m_RefCount: 102
     m_Data: {fileID: 1799187589, guid: 29e21165cb3ae334d969d4be634eaa9e, type: 3}
@@ -49376,7 +49386,7 @@ Tilemap:
   - m_RefCount: 4
     m_Data: {fileID: -819784374, guid: 29e21165cb3ae334d969d4be634eaa9e, type: 3}
   m_TileMatrixArray:
-  - m_RefCount: 4869
+  - m_RefCount: 4870
     m_Data:
       e00: 1
       e01: 0
@@ -49431,7 +49441,7 @@ Tilemap:
       e32: 5.17e-43
       e33: 5.2e-43
   m_TileColorArray:
-  - m_RefCount: 4869
+  - m_RefCount: 4870
     m_Data: {r: 1, g: 1, b: 1, a: 1}
   m_TileObjectToInstantiateArray: []
   m_AnimationFrameRate: 1
@@ -49552,14 +49562,6 @@ CompositeCollider2D:
         Y: -250000000
       - X: 30000000
         Y: -250000000
-    - - X: 0
-        Y: 0
-      - X: 0
-        Y: 10000000
-      - X: 10000000
-        Y: 10000000
-      - X: 10000000
-        Y: 0
   m_CompositePaths:
     m_Paths:
     - - {x: 119.99998, y: -25}
@@ -49590,10 +49592,6 @@ CompositeCollider2D:
       - {x: -29.000029, y: 10}
       - {x: -36, y: 9.99997}
       - {x: -35.999973, y: -25}
-    - - {x: 1, y: 0.0000294}
-      - {x: 0, y: 0.0000294}
-      - {x: 0.0000294, y: 1}
-      - {x: 1, y: 0.9999706}
   m_VertexDistance: 0.0005
   m_OffsetDistance: 0.00005
   m_UseDelaunayMesh: 0

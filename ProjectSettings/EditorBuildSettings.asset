@@ -9,28 +9,31 @@ EditorBuildSettings:
     path: Assets/Scenes/Start Screen.unity
     guid: 0958471a36ba550449a92da29f7975a9
   - enabled: 1
-    path: Assets/Scenes/Forest 1.unity
+    path: Assets/Scenes/Level 1.unity
     guid: d46d91374a7e26147aca7b4adbadddbd
   - enabled: 1
-    path: Assets/Scenes/Forest 2.unity
+    path: Assets/Scenes/Level 2.unity
     guid: 4720ae20e43e7144388d574b48e9db5f
   - enabled: 1
-    path: Assets/Scenes/Forest 3.unity
+    path: Assets/Scenes/Level 3.unity
     guid: ad3e7297302eb3640a70dc01531f96ce
   - enabled: 1
-    path: Assets/Scenes/Forest 4.unity
+    path: Assets/Scenes/Level 4.unity
     guid: e67da62fb61c6fc4e84b1beb4567f9f8
   - enabled: 1
-    path: Assets/Scenes/Forest 5.unity
+    path: Assets/Scenes/Level 5.unity
     guid: 14923e394fed22340b787cb5f21aa5d5
   - enabled: 1
-    path: Assets/Scenes/Forest 7.unity
+    path: Assets/Scenes/Level 6.unity
+    guid: 3283fe55e53e66c4c93be545017f002b
+  - enabled: 1
+    path: Assets/Scenes/Level 7.unity
     guid: 43f88aaf246e23d45b57c1ddab687dff
   - enabled: 1
-    path: Assets/Scenes/Forest 8.unity
+    path: Assets/Scenes/Level 8.unity
     guid: d38177e48f60abe4686c4af0f49e797c
   - enabled: 1
-    path: Assets/Scenes/Forest 9.unity
+    path: Assets/Scenes/Level 9.unity
     guid: 7739cfe40e19b874cbb9cf183633cd72
   - enabled: 1
     path: Assets/Scenes/End Screen.unity
