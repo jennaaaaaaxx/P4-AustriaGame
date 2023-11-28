@@ -1,6 +1,5 @@
 using System.Collections;
 using System.Collections.Generic;
-using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -26,7 +25,6 @@ public class Timer : MonoBehaviour
         timeFormats.Add(TimerFormats.ThreeDecimal, "0.000");
     }
 
-    // Update is called once per frame
     void Update()
     {
         currentTime = countUp ? currentTime += Time.deltaTime : currentTime -= Time.deltaTime;

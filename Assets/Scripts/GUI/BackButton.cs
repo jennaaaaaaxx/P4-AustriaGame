@@ -8,13 +8,9 @@ public class BackButton : MonoBehaviour
 {
     public int level;
 
-    void Start()
-    {
-
-    }
-
     public void OpenScene()
     {
         SceneManager.LoadScene("Start Screen");
+        Time.timeScale = 1f;
     }
 }
