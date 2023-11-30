@@ -45,6 +45,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Forest Levels/Level 10.unity
     guid: 12aefbd31d4085a4cbd1a63e49b7b8e5
   - enabled: 1
+    path: Assets/Scenes/Alps Levels/Level 11.unity
+    guid: ff1c4874cc16a0d48862cb3e7b469c2d
+  - enabled: 1
     path: Assets/Scenes/Menus/End Screen.unity
     guid: 1b9390d85795dc144af31780be27079c
   m_configObjects: {}
