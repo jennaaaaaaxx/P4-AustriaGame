@@ -1,0 +1,3295 @@
+fileFormatVersion: 2
+guid: 650ba407648a87845937b3b822b64874
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SnowyTileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1447
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae0ed6c20ce76145bd153fa4a213f60
+      internalID: 2107907676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1447
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cf8bb49df6dfe49b2405c3f9b77060
+      internalID: -124205068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1447
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e439fcad828d745aca3828bdda8985
+      internalID: -694609276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1447
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ded1e1da7b7a95429770d0cbe12a296
+      internalID: 1382999537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1447
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab301fb0afe39ec42bd7eda7e20ef2bc
+      internalID: 1515613628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1447
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cc76a632dfa3540b5414ee23478619
+      internalID: 13402860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1447
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2ec69ec5dfa8842b0134f51daa4b20
+      internalID: 1635657996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1447
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506fb15bfd0ea9a4b89a1e328bb30cd7
+      internalID: -1020429935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1447
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4b1cea1a4b11b4b8538414f66b87dd
+      internalID: 863609492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1447
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7e654669ad38e4f8163e245a73b3c1
+      internalID: -1618281823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1447
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd909fb3ffcb524f9c81fb3cacd8be5
+      internalID: -1193262376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1447
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a99229cd5e4bdd43a211ed709464516
+      internalID: 221811373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1319
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0333c3fa4ed1c9240b3df6a164ff03df
+      internalID: 1548039650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1319
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58533c913f25ea04cb31785ba1b13cad
+      internalID: -1024586972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1319
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19f7f61bc746ab4fb2e3f023a24dfd3
+      internalID: 747232604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1319
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20369f342f7b764d953ae1455a7ee7b
+      internalID: -1876609356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1319
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e889c801e2f58a444ac790d40aa94203
+      internalID: -340901044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1319
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fec53748f217e41bc836f88ebfe62b
+      internalID: 1397193288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1319
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4671c826f77563744a7f29159ca58b7d
+      internalID: -323797114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_19
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1319
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9035338e3aef140af81934b5040d73
+      internalID: 149471983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_20
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1319
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708048f8ba53cba4e8e23328c5b58e66
+      internalID: 1513248122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_21
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1319
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55726b35bf3e284b9ba2139cc1959e9
+      internalID: 1709075210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_22
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1319
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddf6abf414341141a9ff391d2050f69
+      internalID: -1708078881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_23
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1319
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8934f5638102b48bba7ccc546300d9
+      internalID: 1322066792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1191
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9313920386faf4183af225d9041003
+      internalID: 1930768720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1191
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d3a85acefa9cf409c92b38ddecf143
+      internalID: -513206050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1191
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61d3259d5a3b264eaa35d4b3ae27f64
+      internalID: -695705535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1191
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837f2623c4552b9448c4751ca5db275b
+      internalID: -791790502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1191
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29243a2a58e0e0c4ca047fbe7b08f46c
+      internalID: -1062788108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1191
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d3eaec092f59e42bdeeef21f55dcc5
+      internalID: 1981641484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1191
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c436319bcc29be840b79179c4283553a
+      internalID: 1178976708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1191
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8b569dc369f8845894aa932b786da0
+      internalID: 1303410016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1191
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7969f4ab75aa7a944bfb7f32277f4d4c
+      internalID: -220268822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_33
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1191
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ec00b3184d78946ab632f95b0a5282
+      internalID: -466909875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_34
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1191
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c76ef3719dcfe449e7bc6b5a50dde6
+      internalID: -463732614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_35
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1191
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70673e6b4bea1bb47a87615a0eefc45e
+      internalID: 939735124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1063
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a030c3f9ba95d4245b3941067686d741
+      internalID: 1939801799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1063
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bc1658f8131d440857a8299d3dce26
+      internalID: 250380484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1063
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558eb70a0b3777145918945310979b88
+      internalID: 1014192793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1063
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d8d7c6480594e4fad47df097c33cec
+      internalID: -1647159278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1063
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa00d3d952f25a498aa17f59baab2f2
+      internalID: -115063219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_41
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1063
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f4a32f7ae81c04bb20d3122a901956
+      internalID: 200890611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_42
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1063
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1b068faf75b414cb38cf951224daa2
+      internalID: -443461927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_43
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1063
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04938db654e0e5b43a45137b96e57b0c
+      internalID: 2146056851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_44
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1063
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6616cd40ad1f9478c6f5f72f45a2a5
+      internalID: -1615035816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_45
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1063
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609e02d830310ee478b0ba8a4b2987f3
+      internalID: 1599107746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_46
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1063
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2dd3f53ab057e40b2262ecbe917281
+      internalID: -1854360626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_47
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1063
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6a6109592d7b842a6788047afa74cf
+      internalID: -1593413424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 935
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ef7ad36bd394746bdd7789fed3e8dd
+      internalID: 470782589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 935
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4856dc743e6441d4c9dae99e392f46d3
+      internalID: -1368948200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 935
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f7d753086feb34d923a6ed995a99a4
+      internalID: 1672766531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 935
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7665bf606dda345a87dc617c4bf284
+      internalID: 377273361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 935
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9452b8cddf5556c4085c96338a6ceeef
+      internalID: -2036101600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_53
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 935
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edcc6daca9336246898521b127d8f31
+      internalID: -1517641420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 935
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6764c3b1e5ed7e40bc14ab7a155c99e
+      internalID: -1744012699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_55
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 935
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e3356005a3f7147aa91895ee4c10a3
+      internalID: 1434000490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_56
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 935
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7c1e53890572a45867a5b7a3e1948a
+      internalID: -491350058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_57
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 935
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce70ac776e12e994eb2c87326cb4dd4c
+      internalID: -1292342470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_58
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 935
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04f38524134ac34b9df70ee519cf474
+      internalID: 1322721748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_59
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 935
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04375078eead01d4085c6a9d70ec24e9
+      internalID: 737297241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 807
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0a0991131125c49ab4dec7888a4844
+      internalID: 1865191955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 807
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f578e8efb4ddd54fac882535d2cec7c
+      internalID: -185310701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 807
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edb273423c13ac418f5e76a70999db8
+      internalID: -922527704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 807
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd6793c28cc2ae40a1abd6cfbc03077
+      internalID: -1630362586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 807
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1499f4cc8578e3a40b05a89568cea09f
+      internalID: -1077613013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_65
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 807
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab005c2be72397c43a475594fd7a8f2d
+      internalID: -806424980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_66
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 807
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f880df4a67180c4faba753ebe767ec5
+      internalID: -1726094305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_67
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 807
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294c6dc321384274dace7daebbaaafbd
+      internalID: -1557694198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_68
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 807
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab975dd3d0d5873408903071d7cbc92a
+      internalID: -1562337494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_69
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 807
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d8f5421a1c4f346be423cb774c1006
+      internalID: 2068815103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_70
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 807
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7028c87fc3e59ad4daf7b559141caa32
+      internalID: 1010328287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_71
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 807
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6199b32c755ae4fa5b76d14384e380
+      internalID: -886635442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 679
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b459742841d5241a1bbef3d850642d
+      internalID: 635939999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 679
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812b4f911bb926245a33ec23302be91d
+      internalID: -1867930733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_74
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 679
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5a33fb49c2c8444bb2b4522abe9263
+      internalID: 1983574109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 679
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19b605d4f2927646b550fdbf263198a
+      internalID: 122662359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_76
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 679
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90de66a81fe2ce43b6b6ec16254c9c8
+      internalID: 316291758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_77
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 679
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc2b82bd15ce0442ad6055e0d03666f
+      internalID: 692327666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_78
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 679
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633b4b2c52c574341b3e0b83f318af87
+      internalID: -1966679255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_79
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 679
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddca4c2189ea9eb479d3a73d887f2760
+      internalID: 513166842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_80
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 679
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf9cfd31b3b66f42830a99cb208ee2f
+      internalID: -1045215707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_81
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 679
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0395d1bbffcc4ac47a946fcd792e933d
+      internalID: -1932728701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_82
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 679
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf83c98333bdd04180383b8f310d53f
+      internalID: -606486593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_83
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 679
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802a0f1d69fcb034c9b4f13cf39a0ba8
+      internalID: 1271645965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 551
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177b1b00e591163448f4d9036b585dd2
+      internalID: -1864719855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_85
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 551
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac24da98619564469351a49c0520048
+      internalID: 1313536550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_86
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 551
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcd95950a1856b4ab0e78957856ecd0
+      internalID: 1050496095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_87
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 551
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893794b2b5a4b8e4bb7aeef420dee325
+      internalID: -807294066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 551
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c715264fc0aeb46be61dfff9c3660e
+      internalID: 2054070858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_89
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 551
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0746360bed18944f89760d4ceaee8a8
+      internalID: 397110333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_90
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 551
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8921780118f6c5a41b442bd9d2bce922
+      internalID: -2027375127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_91
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 551
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcae1dec49ac5d4f91c4c6b6fd04666
+      internalID: -1958087574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_92
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 551
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7491adc7e56454bbfb4a367a794da0
+      internalID: -429316038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_93
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 551
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b4a731c74c6664db4c24d3604cd66b
+      internalID: -855073398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_94
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 551
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec8afd28b15d3745bba351245ed5a17
+      internalID: 1724658684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_95
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 551
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b46aa740ddc284280645fe82799dbf
+      internalID: 1616019307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 423
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89912c21f9ed6f245869760f2a6aaebd
+      internalID: -1107403964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 423
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394d2a4f24f128b4da3618e1e8440161
+      internalID: -1305483550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 423
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6332754d4b63a3b4ba395739e06d189a
+      internalID: 2130010523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_99
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 423
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd44cce2ff6b47940ad4b55faf7a38a4
+      internalID: -1477449542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_100
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 423
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bd1663a597e6449a5d711256518253
+      internalID: 1043210520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_101
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 423
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cc5ea4f6f1afe478ff976cb774cc3c
+      internalID: 578000589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_102
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 423
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b3b4478d66e4a47828dbe76dc1ad5a
+      internalID: -2087785983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_103
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 423
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6abc1ed4bba6f9408c042159ba467a6
+      internalID: -177276676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_104
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 423
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08af1d68929bdb945b7c028cda35b7af
+      internalID: -431673459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_105
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 423
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a696297839ef6f43ace4d0f8cb26ad2
+      internalID: -1125482351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_106
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 423
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e22228e2b5baab4daaecd0efaf6d31e
+      internalID: -755781394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_107
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 423
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba46d9566d170a04fbeb44ae8a06a4fd
+      internalID: 1914130042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae342b81d4e0174f933df73e67054b4
+      internalID: 1842800917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_109
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 295
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d8778d6a642d84a8bd1dde012b90a8
+      internalID: 229146108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_110
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 295
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8e6dcfa8fd55d4cbf5ddd44f229187
+      internalID: 1886993242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_111
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 295
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a757d355b89cc5459f848198d43ba27
+      internalID: 1462748817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_112
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 295
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480292850b89db04087aa2721d6ac44d
+      internalID: 859940597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_113
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 295
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be56270139ce9894ba0a480826223aea
+      internalID: 1055519961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_114
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 295
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd339ab03d723943b78e312d96f5deb
+      internalID: 764217980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_115
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 295
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34b5fd5820bd4a43abd064da8a313ed
+      internalID: -1906095668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_116
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 295
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df1ad56429b3fe4d906a4d791836a39
+      internalID: 536327930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_117
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 295
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63835944e02bfee4ba255235ef9c4fe2
+      internalID: 963879393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_118
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 295
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ba572542c50c543a4856dfd8903552
+      internalID: -314454271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_119
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 295
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea0ba096db9b834fa2dce861f1709ed
+      internalID: 1115134266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb762576eb23d04da21afacbe515c83
+      internalID: -1557695839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_121
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 167
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6074aa9379a8c438ca158403a31829
+      internalID: -661166300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_122
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 167
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a89c0ea67e18834fa273bbc446f406c
+      internalID: -1419838215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_123
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 167
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b5dd517df9d5c48a3dff2c04f04946
+      internalID: -1307852826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_124
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 167
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01ecb67abdcacb4aa671b537674e104
+      internalID: -138640802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_125
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 167
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c91bd735da85d34684fe0cee73ca6f8
+      internalID: 620699861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_126
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 167
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e63ca214ee218342a0166b95e09fb4e
+      internalID: -1036676042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_127
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 167
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f6127d42e3ed64f8b466c0fc66263c
+      internalID: -1245003585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_128
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 167
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181bf302c32e15a42a3dc37b0341733d
+      internalID: 602320995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_129
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 167
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff83d5bc71671c4e939adeb7374314c
+      internalID: 125819814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_130
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 167
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13aa9da2cd903da4b91a161c56554cc8
+      internalID: -1372316325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_131
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 167
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a322ed2f724df4ea82b39ab64a18b2
+      internalID: 1880922338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546bc573c3883114fad12ac31662ef06
+      internalID: 740874207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_133
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 39
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c17d5abba34ee4088108402e3947b1
+      internalID: -1618971496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_134
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 39
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0d0dcaee2cf394ab65eb342f82a8a2
+      internalID: 798530757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_135
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 39
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade7a9bc53280f9428f23dae1a36f742
+      internalID: 1348299908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_136
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 39
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515274824d76fb74bb424d889a497005
+      internalID: 710421979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_137
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 39
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829d8de7569d2b74ba48858927e1fdaf
+      internalID: 947974216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_138
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 39
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f06162bc931add4780f7b0847657506
+      internalID: -1257170084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_139
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 39
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4202707ba1dbe1f408ee2556910efc8d
+      internalID: 1408950375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_140
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 39
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c9ad1fb0d917a42a2c082d48da40ad
+      internalID: -1161485633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_141
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 39
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227b2a9ba58b0a246ad8a0e4b77046ca
+      internalID: 1653372277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_142
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 39
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dca9b7c196fccd4a9f92e94b4c6772f
+      internalID: -876417233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowyTileset_143
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 39
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9c40c5404c4194595d8a6553ed621e
+      internalID: 1511286414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SnowyTileset_0: 2107907676
+      SnowyTileset_1: -124205068
+      SnowyTileset_10: -1193262376
+      SnowyTileset_100: 1043210520
+      SnowyTileset_101: 578000589
+      SnowyTileset_102: -2087785983
+      SnowyTileset_103: -177276676
+      SnowyTileset_104: -431673459
+      SnowyTileset_105: -1125482351
+      SnowyTileset_106: -755781394
+      SnowyTileset_107: 1914130042
+      SnowyTileset_108: 1842800917
+      SnowyTileset_109: 229146108
+      SnowyTileset_11: 221811373
+      SnowyTileset_110: 1886993242
+      SnowyTileset_111: 1462748817
+      SnowyTileset_112: 859940597
+      SnowyTileset_113: 1055519961
+      SnowyTileset_114: 764217980
+      SnowyTileset_115: -1906095668
+      SnowyTileset_116: 536327930
+      SnowyTileset_117: 963879393
+      SnowyTileset_118: -314454271
+      SnowyTileset_119: 1115134266
+      SnowyTileset_12: 1548039650
+      SnowyTileset_120: -1557695839
+      SnowyTileset_121: -661166300
+      SnowyTileset_122: -1419838215
+      SnowyTileset_123: -1307852826
+      SnowyTileset_124: -138640802
+      SnowyTileset_125: 620699861
+      SnowyTileset_126: -1036676042
+      SnowyTileset_127: -1245003585
+      SnowyTileset_128: 602320995
+      SnowyTileset_129: 125819814
+      SnowyTileset_13: -1024586972
+      SnowyTileset_130: -1372316325
+      SnowyTileset_131: 1880922338
+      SnowyTileset_132: 740874207
+      SnowyTileset_133: -1618971496
+      SnowyTileset_134: 798530757
+      SnowyTileset_135: 1348299908
+      SnowyTileset_136: 710421979
+      SnowyTileset_137: 947974216
+      SnowyTileset_138: -1257170084
+      SnowyTileset_139: 1408950375
+      SnowyTileset_14: 747232604
+      SnowyTileset_140: -1161485633
+      SnowyTileset_141: 1653372277
+      SnowyTileset_142: -876417233
+      SnowyTileset_143: 1511286414
+      SnowyTileset_15: -1876609356
+      SnowyTileset_16: -340901044
+      SnowyTileset_17: 1397193288
+      SnowyTileset_18: -323797114
+      SnowyTileset_19: 149471983
+      SnowyTileset_2: -694609276
+      SnowyTileset_20: 1513248122
+      SnowyTileset_21: 1709075210
+      SnowyTileset_22: -1708078881
+      SnowyTileset_23: 1322066792
+      SnowyTileset_24: 1930768720
+      SnowyTileset_25: -513206050
+      SnowyTileset_26: -695705535
+      SnowyTileset_27: -791790502
+      SnowyTileset_28: -1062788108
+      SnowyTileset_29: 1981641484
+      SnowyTileset_3: 1382999537
+      SnowyTileset_30: 1178976708
+      SnowyTileset_31: 1303410016
+      SnowyTileset_32: -220268822
+      SnowyTileset_33: -466909875
+      SnowyTileset_34: -463732614
+      SnowyTileset_35: 939735124
+      SnowyTileset_36: 1939801799
+      SnowyTileset_37: 250380484
+      SnowyTileset_38: 1014192793
+      SnowyTileset_39: -1647159278
+      SnowyTileset_4: 1515613628
+      SnowyTileset_40: -115063219
+      SnowyTileset_41: 200890611
+      SnowyTileset_42: -443461927
+      SnowyTileset_43: 2146056851
+      SnowyTileset_44: -1615035816
+      SnowyTileset_45: 1599107746
+      SnowyTileset_46: -1854360626
+      SnowyTileset_47: -1593413424
+      SnowyTileset_48: 470782589
+      SnowyTileset_49: -1368948200
+      SnowyTileset_5: 13402860
+      SnowyTileset_50: 1672766531
+      SnowyTileset_51: 377273361
+      SnowyTileset_52: -2036101600
+      SnowyTileset_53: -1517641420
+      SnowyTileset_54: -1744012699
+      SnowyTileset_55: 1434000490
+      SnowyTileset_56: -491350058
+      SnowyTileset_57: -1292342470
+      SnowyTileset_58: 1322721748
+      SnowyTileset_59: 737297241
+      SnowyTileset_6: 1635657996
+      SnowyTileset_60: 1865191955
+      SnowyTileset_61: -185310701
+      SnowyTileset_62: -922527704
+      SnowyTileset_63: -1630362586
+      SnowyTileset_64: -1077613013
+      SnowyTileset_65: -806424980
+      SnowyTileset_66: -1726094305
+      SnowyTileset_67: -1557694198
+      SnowyTileset_68: -1562337494
+      SnowyTileset_69: 2068815103
+      SnowyTileset_7: -1020429935
+      SnowyTileset_70: 1010328287
+      SnowyTileset_71: -886635442
+      SnowyTileset_72: 635939999
+      SnowyTileset_73: -1867930733
+      SnowyTileset_74: 1983574109
+      SnowyTileset_75: 122662359
+      SnowyTileset_76: 316291758
+      SnowyTileset_77: 692327666
+      SnowyTileset_78: -1966679255
+      SnowyTileset_79: 513166842
+      SnowyTileset_8: 863609492
+      SnowyTileset_80: -1045215707
+      SnowyTileset_81: -1932728701
+      SnowyTileset_82: -606486593
+      SnowyTileset_83: 1271645965
+      SnowyTileset_84: -1864719855
+      SnowyTileset_85: 1313536550
+      SnowyTileset_86: 1050496095
+      SnowyTileset_87: -807294066
+      SnowyTileset_88: 2054070858
+      SnowyTileset_89: 397110333
+      SnowyTileset_9: -1618281823
+      SnowyTileset_90: -2027375127
+      SnowyTileset_91: -1958087574
+      SnowyTileset_92: -429316038
+      SnowyTileset_93: -855073398
+      SnowyTileset_94: 1724658684
+      SnowyTileset_95: 1616019307
+      SnowyTileset_96: -1107403964
+      SnowyTileset_97: -1305483550
+      SnowyTileset_98: 2130010523
+      SnowyTileset_99: -1477449542
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
