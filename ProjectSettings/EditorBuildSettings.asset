@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Menus/Settings Screen.unity
     guid: 40ef6dd920078b84689a9f304637cddb
   - enabled: 1
+    path: Assets/Scenes/Menus/Credits Screen.unity
+    guid: d6bc99c21f1a98041ac5dcf66e375232
+  - enabled: 1
     path: Assets/Scenes/Menus/Start Screen.unity
     guid: 0958471a36ba550449a92da29f7975a9
   - enabled: 1
@@ -77,6 +80,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/3 Vienna Levels/Level 21.unity
     guid: 09e6ac5411b3e8c41886129c58219805
+  - enabled: 1
+    path: Assets/Scenes/3 Vienna Levels/Level 22.unity
+    guid: fa57a7daf8bc6964cbb7ab43486e6c92
+  - enabled: 1
+    path: Assets/Scenes/3 Vienna Levels/Level 23.unity
+    guid: 037ee44fa45a93f4596c0b5f91e97101
+  - enabled: 1
+    path: Assets/Scenes/3 Vienna Levels/Level 24.unity
+    guid: 15f4e342a0888f546a6a66c5bf8a07de
+  - enabled: 1
+    path: Assets/Scenes/3 Vienna Levels/Level 25.unity
+    guid: 77cdf6b96e358ed49ae4d37c2ef9b7ac
   - enabled: 1
     path: Assets/Scenes/Menus/End Screen.unity
     guid: 1b9390d85795dc144af31780be27079c
