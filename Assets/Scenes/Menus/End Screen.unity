@@ -1066,8 +1066,8 @@ MonoBehaviour:
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
-    m_LineSpacing: 1
-  m_Text: Thank you for playing!
+    m_LineSpacing: 1.5
+  m_Text: Thank you so much for playing my game! I hope you enjoyed playing!
 --- !u!222 &1468331055
 CanvasRenderer:
   m_ObjectHideFlags: 0
